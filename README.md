@@ -1,2 +1,2 @@
-# chess-engine-distillation-model
+# chess-engine-distillation
 ![Preview](decarte.jpg)
